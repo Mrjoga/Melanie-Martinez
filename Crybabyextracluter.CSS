@@ -4,10 +4,10 @@ h1,h2,h3 {color:rgb(290,150,190);text-align:justify;}
 
 div.gallery {
     margin: 5px;
-    border: 1px solid black;
+    border: 1px solid rgb(85, 118, 130);
     float: left;
     width: 250px;
-    background-color: black;
+    background-color: rgb(75, 108, 120);
 }
       
 div.gallery img {
