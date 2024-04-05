@@ -1,6 +1,6 @@
-p,ol,li {color:rgb(240,100,140);}
+p,ol,li {color:rgb(240,100,140);text-aling:justify}
 
-h1,h2,h3 {color:rgb(240,100,140);}
+h1,h2,h3 {color:rgb(240,100,140);text-aling:justify}
 
 div.gallery {
     margin: 5px;
