@@ -18,13 +18,13 @@ div.gallery img {
 div.desc {
   padding: 15px;
   text-align: justify;
-  color:rgb(290,150,190);
+  color:rgb(190,50,90);
 }
 
 a:link, a:visited {
-    color:rgb(290,150,190);
+    color:rgb(190,50,90);
 }
 
 body {
-    background-color:rgb(290,150,190);
+    background-color:rgb(260,120,160);
 }
