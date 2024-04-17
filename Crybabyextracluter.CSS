@@ -1,6 +1,6 @@
-p,ol,li {color:rgb(260,120,160);text-align:justify;}
+p,ol,li {color:rgb(213,109,121);text-align:justify;}
 
-h1,h2,h3 {color:rgb(260,120,160);text-align:justify;}
+h1,h2,h3 {color:rgb(213,109,121);text-align:justify;}
 
 div.gallery {
     margin: 5px;
@@ -18,13 +18,13 @@ div.gallery img {
 div.desc {
   padding: 15px;
   text-align: justify;
-  color:rgb(260,120,160);
+  color:rgb(213,109,121);
 }
 
 a:link, a:visited {
-    color:rgb(260,120,160);
+    color:rgb(213,109,121);
 }
 
 body {
-    background-color:rgb(234,171,172);
+    background-color:rgb(255, 233, 162);
 }
