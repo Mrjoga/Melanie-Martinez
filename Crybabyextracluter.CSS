@@ -5,8 +5,8 @@ h1,h2,h3 {color:rgb(213,109,121);text-align:justify;}
 details > summary {
   padding: 4px;
   width: 160px;
-  background-color: whitesmoke;
   border: none;
+  color: rgb(213,109,121);
   cursor: pointer;
   margin: 10px;
 }
