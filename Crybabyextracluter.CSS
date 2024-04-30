@@ -2,6 +2,15 @@ p,ol,li {color:rgb(213,109,121);text-align:justify;}
 
 h1,h2,h3 {color:rgb(213,109,121);text-align:justify;}
 
+details > summary {
+  padding: 4px;
+  width: 160px;
+  background-color: whitesmoke;
+  border: none;
+  cursor: pointer;
+  margin: 10px;
+}
+
 div.gallery {
     margin: 5px;
     border: 1px solid rgb(85, 118, 130);
