@@ -32,6 +32,7 @@ div.desc {
 
 a:link, a:visited {
     color:rgb(213,109,121);
+    cursor: pointer;
 }
 
 body {
